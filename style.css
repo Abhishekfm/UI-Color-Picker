@@ -5,6 +5,11 @@
     padding: 0px;
     outline: 0px;
 }
+
+body{
+    overflow-x: hidden;
+}
+
 h1{
     margin: auto;
     text-align: center;
